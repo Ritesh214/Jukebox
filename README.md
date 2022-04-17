@@ -1,15 +1,15 @@
 <h2>Jukebox player</h2>
-<p>The enhancement plan is to make a music jukebox with albums containing lists of songs which will be associated to a given name. The steps will be as follows:
-Clone repository from Bitbucket which is a collaborative development environment.
-Create main class that will load the rest of the program.
-Create the classes and methods for the albums and students.
-Create functions that call student names and get albums associated to their names.
-Commit the changes to the repository awaiting code review from fellow collaborators.
-The skills illustrated here are software design and engineering specifically on object oriented programming using Java language. Here I will demonstrate the use of functions, function definition and calling functions. I will also show how to create classes and define methods within the class. I will show the use of loops and recursions. The project will demonstrate the ability to collaborate on a project using cloud a repository management system, Bitbucket. The project will also show my mastery in using the eclipse IDE tool to develop projects like the use of its various features and tools.</p>
+<p>The <b>enhancement plan</b> is to make a music jukebox with albums containing lists of songs which will be associated to a given name. The steps will be as follows:</p>
+<p><i>• Clone repository from Bitbucket which is a collaborative development environment<br>
+• Create main class that will load the rest of the program<br>
+• Create the classes and methods for the albums and students<br>
+• Create functions that call student names and get albums associated to their names<br>
+• Commit the changes to the repository awaiting code review from fellow collaborators</i><br></p>
+<p>The <b>skills illustrated</b> here are software design and engineering specifically on object oriented programming using Java language. Here I will demonstrate the <b>use of functions</b>, <b>function definition</b> and <b>calling functions</b>. I will also show how to <b>create classes</b> and <b>define methods</b> within the class. I will show the use of <b>loops and recursions</b>. The project will demonstrate the ability to <b>collaborate on a project</b> using a <b>cloud repository</b> management system, <b>Bitbucket</b>. The project will also show my mastery in using the <b>eclipse IDE</b> tool to develop projects like the use of its various features and tools.</p>
 
 <b>The jukebox project enhancement process</b>
-
-Cloning to local repository
+<img src="https://github.com/GypsyTheDj/My-PortFolio/blob/master/assets/images/Dev%20Android.gif" width="300" height="200">
+Cloning to local repository<br>
 
 
 

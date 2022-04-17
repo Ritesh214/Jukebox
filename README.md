@@ -1,14 +1,13 @@
-Category One: Software Engineering/Design
-Jukebox player.
-The enhancement plan is to make a music jukebox with albums containing lists of songs which will be associated to a given name. The steps will be as follows:
+<h2>Jukebox player</h2>
+<p>The enhancement plan is to make a music jukebox with albums containing lists of songs which will be associated to a given name. The steps will be as follows:
 Clone repository from Bitbucket which is a collaborative development environment.
 Create main class that will load the rest of the program.
 Create the classes and methods for the albums and students.
 Create functions that call student names and get albums associated to their names.
 Commit the changes to the repository awaiting code review from fellow collaborators.
-The skills illustrated here are software design and engineering specifically on object oriented programming using Java language. Here I will demonstrate the use of functions, function definition and calling functions. I will also show how to create classes and define methods within the class. I will show the use of loops and recursions. The project will demonstrate the ability to collaborate on a project using cloud a repository management system, Bitbucket. The project will also show my mastery in using the eclipse IDE tool to develop projects like the use of its various features and tools.
+The skills illustrated here are software design and engineering specifically on object oriented programming using Java language. Here I will demonstrate the use of functions, function definition and calling functions. I will also show how to create classes and define methods within the class. I will show the use of loops and recursions. The project will demonstrate the ability to collaborate on a project using cloud a repository management system, Bitbucket. The project will also show my mastery in using the eclipse IDE tool to develop projects like the use of its various features and tools.</p>
 
-The jukebox project enhancement process
+<b>The jukebox project enhancement process</b>
 
 Cloning to local repository
 
